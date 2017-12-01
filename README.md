@@ -184,9 +184,5 @@
 		</div>
 	</div>	
 </section>
-
-<footer>
-	<p>qwerty</p>
-</footer>
 </body>
 </html>
