@@ -33,7 +33,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-			<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/guitar.jpg" width=100% class="ïmg=block">
+			<img src="images/guitar.jpg" width=100% class="ïmg=block">
 			</div>
 			<div class="col-md-6">
 				<h1 class="text-center"><b>ABOUT</b></h1>
@@ -55,7 +55,7 @@
 			</div>
 		<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/OnePiece.jpg" width="80%" height="100%">
+				<img src="images/OnePiece.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -67,7 +67,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/SAO.jpg" width="80%" height="100%">
+				<img src="images/SAO.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -79,7 +79,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/TokyoGhoul.jpg" width="80%" height="100%">
+				<img src="images/TokyoGhoul.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -91,7 +91,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/Naruto3.jpg" width="80%" height="100%">
+				<img src="images/Naruto3.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -103,7 +103,7 @@
 		</div>
 			<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/Shokugeki.jpg" width="80%" height="100%">
+				<img src="images/Shokugeki.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -115,7 +115,7 @@
 		</div>
 			<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/ShingekiNoKyojin.jpg" width="80%" height="100%">
+				<img src="images/ShingekiNoKyojin.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -127,7 +127,7 @@
 		</div>
 			<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/WorldTrigger.jpg" width="80%" height="100%">
+				<img src="images/WorldTrigger.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
@@ -139,7 +139,7 @@
 		</div>
 			<div class="row">
 			<div class="col-md-6">
-				<img src="C:\Users\Mark G. Almendras\Desktop\MyWebFortfolio\images/DeathNote.jpg" width="80%" height="100%">
+				<img src="images/DeathNote.jpg" width="80%" height="100%">
 				<br>
 				<br>
 				<br>
